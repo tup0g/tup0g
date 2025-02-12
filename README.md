@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm tup0g! 👋
 
-<!--
-**tup0g/tup0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a student of computer science
 
-Here are some ideas to get you started:
+## 🛠 Skills
+C#, Python, html, css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently learning swift 
+
+👯‍♀️ I'm looking to collaborate on Denis Shevchenko
+
+🤔 I'm looking for help with so much alcohol in my fridge
+
+📫 How to reach me:
+@tup_og in Telegram
+mhskrip@gmail.com
+
+⚡️ Fun fact: im learning on applied mathematics and do not understand math...
