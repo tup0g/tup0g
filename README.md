@@ -13,7 +13,6 @@ C#, Python, html, css
 🤔 I'm looking for help with so much alcohol in my fridge
 
 📫 How to reach me:
-@tup_og in Telegram
-mhskrip@gmail.com
+@tup_og in Telegram or you can just text me on my email mhskrip@gmail.com
 
 ⚡️ Fun fact: im learning on applied mathematics and do not understand math...
