@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:800/1*4OVHfHWlrni8Xp8pLR8ZzQ.gif"  />
-
-###
-
 <h2 align="left">🧑‍💻 Languages</h2>
 
 ###
