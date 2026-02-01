@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1WYJQm933nvQ2MOVN9Sx_iMBmlJm6pLF8/view?usp=share_link](https://drive.google.com/file/d/1WYJQm933nvQ2MOVN9Sx_iMBmlJm6pLF8/view?usp=share_link)**
 
-#📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tupog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tupog&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tupog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
